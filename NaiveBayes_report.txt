@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+     healthy       0.74      0.67      0.70        30
+        oscc       0.69      0.76      0.72        29
+
+    accuracy                           0.71        59
+   macro avg       0.71      0.71      0.71        59
+weighted avg       0.71      0.71      0.71        59
