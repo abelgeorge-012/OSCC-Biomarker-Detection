@@ -57,6 +57,8 @@ Ensemble_report.txt
 roc_curves.png: ROC curves comparing all models.
 
 ⚙️ Requirements
+Pre-trained V4 SILVA Classifier 
+
 Python packages:
 scikit-learn
 xgboost
